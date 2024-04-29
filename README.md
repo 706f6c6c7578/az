@@ -1,2 +1,2 @@
 # az
-Encoder/Decoder encodes files as A-Z letter sequence.
+az Encoder/Decoder encodes files as A-Z letter sequence.
